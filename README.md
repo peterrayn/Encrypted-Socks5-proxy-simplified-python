@@ -94,6 +94,10 @@ git clone https://github.com/peterrayn/Encrypted-Socks5-proxy.git
 cd Encrypted-Socks5-proxy
 ```
 
+p.s. if your linux have no venv,you need this command-->
+```bash
+sudo apt install python3-venv
+```
 
 #### step 2.configure it
 ```bash
