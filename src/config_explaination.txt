@@ -1,0 +1,8 @@
+local_ip: "local.py" listen address,should be "127.0.0.1"
+local_port: "local.py" listen port,"0-65535"
+server_ip: "server.py" listen address,you should fill the public IPV4
+server_port: "server.py" listen port,"0-65535"
+password: use to encrypt the network data and authorizaion.
+buffer: the maximum bytes of one analysis
+encrypt_num: 0 -no encryption, 1 -Ploy1305, 2 -AESGCM, 3 -XOR  (0 and 3 not safe)
+monitor_flow: true -monitor the data content, false -just show the length of it
