@@ -1,0 +1,11 @@
+{ 
+  "local_ip":"127.0.0.1",
+  "local_port":9999,
+  "server_ip":"127.0.0.1",
+  "server_port":9998,
+  "password":"password",
+  "buffer":8192,
+  "encrypt_num":1,
+  "monitor_flow":false
+}
+
