@@ -55,10 +55,10 @@ cd Encrypted-Socks5-proxy
 
 #### step 2.
 
-```bash
+`
 change the configuration file (src\configuration.json)
 refer above content "The configuration file parameter"
-```
+`
 
 
 #### step 3.run in a new environment(optional):
