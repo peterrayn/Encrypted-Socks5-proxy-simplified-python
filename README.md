@@ -51,7 +51,7 @@ monitor_flow: true -monitor the data content, false -just show the length of it
 git clone https://github.com/peterrayn/Encrypted-Socks5-proxy.git
 cd Encrypted-Socks5-proxy
 ```
-<br>
+
 
 #### step 2.
 
@@ -59,26 +59,26 @@ cd Encrypted-Socks5-proxy
 change the configuration file (src\configuration.json)
 refer above content "The configuration file parameter"
 ```
-<br>
+
 
 #### step 3.run in a new environment(optional):
  ```bash
 python -m venv env
 ./env/Scripts/Activate.ps1
 ```
-<br>
+
 
 #### step 4.install the dependance:
 ```bash
 pip install cryptography
 ```
-<br>
+
 
 #### step 5.run local file:
  ```bash
 python src/local.py
 ```
-<br>
+
 
 #### OR run server file:
  ```bash
@@ -93,13 +93,13 @@ python src/server.py
 git clone https://github.com/peterrayn/Encrypted-Socks5-proxy.git
 cd Encrypted-Socks5-proxy
 ```
-<br>
+
 
 #### step 2.configure it
 ```bash
 vim src/configuration.json
 ```
-<br>
+
 
 #### step 3.
 ```
@@ -107,7 +107,7 @@ python3 -m venv env
 source env/bin/activate
 pip install cryptography
 ```
-<br>
+
 
 #### step 4.run local file:
  ```bash
@@ -142,8 +142,7 @@ socks://Og@127.0.0.1:9999#minisocks
 <br>
 <br>
 
-## :P
+## : )
 
-<br>
 
 
