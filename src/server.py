@@ -1,9 +1,9 @@
 """
 Project: Encrypted-Socks5-proxy
-Author: Artist peterpar2
+Author: peterrayn
 Email: hjungl0200@gmail.com
 License: MIT License
-Copyright (c) 2026 Artist
+Copyright (c) 2026 peterrayn
 """
 
 
