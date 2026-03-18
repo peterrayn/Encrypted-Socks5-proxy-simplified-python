@@ -30,7 +30,7 @@ The encryption happened between the local to server,you can choose ChaCha20Poly1
 ```
 local_ip: "local.py" listen address,should be "127.0.0.1"
 local_port: "local.py" listen port,"0-65535"
-server_ip: "server.py" listen address,you should fill the public IPV4
+server_ip: "server.py" listen address,on local PC fill the server public IPV4;on server,fill the "0.0.0.0"
 server_port: "server.py" listen port,"0-65535"
 password: use to encrypt the network data and authorizaion.
 buffer: the maximum bytes of one analysis
